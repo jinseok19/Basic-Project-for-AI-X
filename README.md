@@ -10,5 +10,12 @@
 # SM AI-X competition Leaderboard
 ![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/7e2d378b-30df-4d2b-bc24-0d84e609b9e7)
 
+# Task List
+
+✅ Bus_Exploratory Data Analysis
+✅ Subway_Exploratory Data Analysis
+✅ Time_Series_Data
+✅ SM_AI_X_competition
+
 # Schedule
 ![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/8bebee2c-168d-4c89-b1cc-cc8e812078a0)
