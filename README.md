@@ -22,10 +22,10 @@
 
 # The Final Result
 
-![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/2c07aaca-c061-402f-9556-d45fdf37528e)
+![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/2c07aaca-c061-402f-9556-d45fdf37528e) 
+# A+
 
-# grade
-A+
+
 
 
 
