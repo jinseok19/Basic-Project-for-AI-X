@@ -12,9 +12,9 @@
 
 # Task List
 
-✅ Bus_Exploratory Data Analysis
-✅ Subway_Exploratory Data Analysis
-✅ Time_Series_Data
+✅ Bus_Exploratory Data Analysis\n
+✅ Subway_Exploratory Data Analysis\n
+✅ Time_Series_Data\n
 ✅ SM_AI_X_competition
 
 # Schedule
