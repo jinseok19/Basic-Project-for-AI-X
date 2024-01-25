@@ -1,4 +1,4 @@
-# Beginner-Project-for-AI-X
+# Beginner_Level_Project_for_AI-X
 🍎AI+X 선도 인재 양성 기초 프로젝트 with KT &amp; 상명대학교🍎
 
 # Summary
