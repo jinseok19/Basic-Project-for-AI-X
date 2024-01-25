@@ -12,10 +12,10 @@
 
 # Task List
 
-✅ Bus_Exploratory Data Analysis\n
-✅ Subway_Exploratory Data Analysis\n
-✅ Time_Series_Data\n
-✅ SM_AI_X_competition
+  ✅ Bus_Exploratory Data Analysis\n
+  ✅ Subway_Exploratory Data Analysis\n
+  ✅ Time_Series_Data\n
+  ✅ SM_AI_X_competition
 
 # Schedule
 ![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/8bebee2c-168d-4c89-b1cc-cc8e812078a0)
